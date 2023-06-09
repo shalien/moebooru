@@ -1,7 +1,7 @@
 name: moebooru
-description: A starting point for Dart libraries or applications.
+description: This simple library aim to provide an easy way to work with the Moebooru based image board
 version: 1.0.0
-# repository: https://github.com/my_org/my_repo
+repository: https://github.com/shalien/moebooru
 
 environment:
   sdk: ^3.0.3
